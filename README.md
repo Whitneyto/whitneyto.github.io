@@ -1,12 +1,12 @@
 # Whitney To's Portfolio
 ## My Info
--Name: Whitney To
+1.Name: Whitney To
 
--Email: nguyetto@udel.edu
+2.Email: nguyetto@udel.edu
 
--GitHub Portflio Page: https://whitneyto.github.io
+3,GitHub Portflio Page: https://whitneyto.github.io
 
--Github Repository: 
+4.Github Repository: 
 
 
 
