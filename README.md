@@ -6,7 +6,6 @@
 
 3,GitHub Portflio Page: https://whitneyto.github.io
 
-4.Github Repository: 
-
+4.Github Repository: https://github.com/Whitneyto/whitneyto.github.io.git
 
 
