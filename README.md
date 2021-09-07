@@ -8,10 +8,13 @@
 
 4. Github Repository: [My Repo](https://github.com/Whitneyto/whitneyto.github.io.git)
 
+## Change Log
+
+## TODO
+
 ## Skills
 1. Web basics
-    - [HTML](https://github.com/Whitneyto/whitneyto.github.io.git/wt.html)
-    - CSS
+    - [HTML and CSS](https://github.com/Whitneyto/whitneyto.github.io.git/wt.html)
     - JavaScript / TypeScript
 2. Visual Stuio Code
     - NodeJS
