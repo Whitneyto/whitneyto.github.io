@@ -10,7 +10,7 @@
 
 ## Skills
 1. Web basics
-    - HTML
+    - [HTML](https://github.com/Whitneyto/whitneyto.github.io.git/wt.html)
     - CSS
     - JavaScript / TypeScript
 2. Visual Stuio Code
