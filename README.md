@@ -1,11 +1,28 @@
 # Whitney To's Portfolio
 ## My Info
-1.Name: Whitney To
+1. Name: Whitney To
 
-2.Email: nguyetto@udel.edu
+2. Email: nguyetto@udel.edu
 
-3,GitHub Portflio Page: https://whitneyto.github.io
+3. GitHub Portflio Page: https://whitneyto.github.io
 
-4.Github Repository: [My Repo](https://github.com/Whitneyto/whitneyto.github.io.git)
+4. Github Repository: [My Repo](https://github.com/Whitneyto/whitneyto.github.io.git)
+
+## Skills
+1. Web basics
+    - HTML
+    - CSS
+    - JavaScript / TypeScript
+2. Visual Stuio Code
+    - NodeJS
+    - TypeScript
+3. React (Hooks)
+4. Git
+    - Github Pages
+    - Markdown
+5. Bootstrap
+6. UI design
+7. Testing
+    - Jest
 
 
