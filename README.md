@@ -1,8 +1,8 @@
 # Whitney To's Portfolio
 ## My Info
 1. Name: Whitney To
-
-2. Email: nguyetto@udel.edu
+2. 
+3. Email: nguyetto@udel.edu
 
 3. GitHub Portflio Page: https://whitneyto.github.io
 
@@ -14,6 +14,7 @@
 - Using VsCode to clone project, change and update code/project to Github
 - HTML and CSS tutorial on [MarkSheet](https://marksheet.io/html-text.html) and [htmlreference](https://htmlreference.io/element/a/) sites
 - A simple [project](https://whitneyto.github.io/FirstProject) page implemented HTML and CSS
+    - Source code can be accessed [here](https://github.com/Whitneyto/MyPage.github.io)
 
 ## TODO
 - understand concepts behind used technologies
