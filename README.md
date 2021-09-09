@@ -11,7 +11,7 @@
 ## Change Log
 - Created this portfolio page using Markdown with a README.md file
 - Git tutorial on [site]
-- Using VsCode to clone project, change and update code/project to Github
+- Using git in VsCode and terminal to clone project, change and update code/project to Github
 - HTML and CSS tutorial on [MarkSheet](https://marksheet.io/html-text.html) and [htmlreference](https://htmlreference.io/element/a/) sites
 - A simple [project](https://whitneyto.github.io/FirstProject) page implemented HTML and CSS
     - Source code can be accessed [here](https://github.com/Whitneyto/MyPage.github.io)
