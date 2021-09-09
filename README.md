@@ -1,5 +1,4 @@
-# Whitney To's Portfolio
-## My Info
+# Whitney To
 1. Name: Whitney To
 
 2. Email: nguyetto@udel.edu
@@ -8,20 +7,7 @@
 
 4. Github Repository: [My Repo](https://github.com/Whitneyto/whitneyto.github.io.git)
 
-## Change Log
-- Created this portfolio page using Markdown with a README.md file
-- Git tutorial on [site]
-- Using git in VsCode and terminal to clone project, change and update code/project to Github
-- HTML and CSS tutorial on [MarkSheet](https://marksheet.io/html-text.html) and [htmlreference](https://htmlreference.io/element/a/) sites
-- A simple [project](https://whitneyto.github.io/FirstProject) page implemented HTML and CSS
-    - Source code can be accessed [here](https://github.com/Whitneyto/MyPage.github.io)
-
-## TODO
-- understand concepts behind used technologies
-- More tutorial on HTML and CSS
-- tutorial and practice with JavaScript
-
-## Skills
+# Portfolio
 1. Web basics
     - [HTML and CSS](https://whitneyto.github.io/FirstProject)
     - JavaScript / TypeScript
@@ -37,4 +23,15 @@
 7. Testing
     - Jest
 
+# Change Log
+- Created this portfolio page using Markdown with a README.md file
+- Git tutorial on [site]
+- Using git in VsCode and terminal to clone project, change and update code/project to Github
+- HTML and CSS tutorial on [MarkSheet](https://marksheet.io/html-text.html) and [htmlreference](https://htmlreference.io/element/a/) sites
+- A simple [project](https://whitneyto.github.io/FirstProject) page implemented HTML and CSS
+    - Source code can be accessed [here](https://github.com/Whitneyto/MyPage.github.io)
 
+# TODO
+- understand concepts behind used technologies
+- More tutorial on HTML and CSS
+- tutorial and practice with JavaScript
