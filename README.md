@@ -16,7 +16,7 @@
     - Understand HTML syntax to construct a simple webpage project and use CSS to give some styles on the webpage
     - Access project [here](https://whitneyto.github.io/FirstProject) and access source code here [here](https://github.com/Whitneyto/FirstProject)
     - CSS FlexBox tutorials on [https://flexboxfroggy.com/](https://flexboxfroggy.com/)
-    - ![](/images/CSS-Flex-Box.png)
+    - ![](images/CSS-Flex-Box.png)
 3. Visual Studio Code
     - Using git in VSCode and terminal to clone project, change and update code/project to Github
 5. Git
