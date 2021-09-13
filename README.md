@@ -15,6 +15,7 @@
     - Learning HTML and CSS from tutorials on [MarkSheet](https://marksheet.io/html-text.html) and [htmlreference](https://htmlreference.io/element/a/) sites
     - Understand HTML syntax to construct a simple webpage project and use CSS to give some styles on the webpage
     - Access project [here](https://whitneyto.github.io/FirstProject) and access source code here [here](https://github.com/Whitneyto/FirstProject)
+    - CSS FlexBox tutorials on [https://flexboxfroggy.com/](https://flexboxfroggy.com/)
 3. Visual Studio Code
     - Using git in VSCode and terminal to clone project, change and update code/project to Github
 5. Git
