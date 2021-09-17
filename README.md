@@ -16,13 +16,9 @@
 ## Web basics
 * Learning HTML and CSS from tutorials on [MarkSheet](https://marksheet.io/html-text.html) and [htmlreference](https://htmlreference.io/element/a/) sites
    
-* Understand HTML syntax to construct a simple webpage project and use CSS to give some styles on the webpage
+* Constructed a simple webpage project using HTML, CSS, and Bootstrap to give some styles on the webpage
    
     * Access project [here](https://whitneyto.github.io/FirstProject) and access source code here [here](https://github.com/Whitneyto/FirstProject)
-   
-* CSS FlexBox tutorials on [https://flexboxfroggy.com/](https://flexboxfroggy.com/)
-   
-    ![](images/CSS-Flex-Box.png)
    
 ## Visual Studio Code
 * Using git in VSCode and terminal to clone project, change and update code/project to Github
@@ -41,13 +37,14 @@
 * using *git add*, *git commit*, *git push*, *git status*,*git checkout*, *git merge*, *git branch*, etc.
 
 # Change Log
-- Git tutorials
-- Practice using git in VSCode and terminal to clone project, change and update code/project to Github
-- HTML and CSS tutorials
-- Created a simple HTML and CSS project with source provided under Portfolio section
+- Used branching in git when working for different part of making a webpage wiht HTML. Same link to project above.
+- HTML and CSS tutorials, and updated the [webpage](https://whitneyto.github.io/FirstProject) project with nicer looking
+- the project mention above has ability to link to other pages
+- Implemented Bootstrap for certain elements when working witht the HTML webpage project mention above.
+   - Use bootstrap for the heading with navigation and clickable card
 
 # TODO
-- understand more about concepts behind used technologies
-- More tutorial on HTML and CSS
-- tutorial and practice with JavaScript
-- tutorial and practicce with BootStrap, React
+- I'm going to focus more on React and Typescript in the coming week
+- I want to attempt making simple projects using react and typescript, for example: counter, simple interactive buttons, etc.
+- I have been reading tutorials on [reactjs.org](https://reactjs.org/) and will be continue to dive deeper into the content
+- Also, I will look at snippets for example for better understanding on using REACT JSX, [W3School](https://www.w3schools.com/REACT/react_jsx.asp) seems like a good source.
