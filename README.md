@@ -75,4 +75,4 @@
 ### Week 3
 - Make more other simple website (project) and link them back to the first project
 - Maybe learn about Testing?
-- Update codes and styles for all projects as needed for better look and performance
+- Update codes and styles for all projects as needed for better look and performance, definitely should find a place to use React Bootstrap
