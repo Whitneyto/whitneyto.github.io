@@ -14,11 +14,16 @@
 * Understand the syntax of Markdown including: Making different headers, ordered/unordered list, **Bold text**, *Italic text*, inserting images, etc.
 
 ## Web basics
-* Learning HTML and CSS from tutorials on [MarkSheet](https://marksheet.io/html-text.html) and [htmlreference](https://htmlreference.io/element/a/) sites
+* Learn HTML and CSS from tutorials on [MarkSheet](https://marksheet.io/html-text.html) and [htmlreference](https://htmlreference.io/element/a/) sites
    
-* Constructed a simple webpage project using HTML, CSS, and Bootstrap to give some styles on the webpage
+* Constructe a simple webpage project using HTML, CSS, and Bootstrap to give some styles on the webpage
    
     * Access project [here](https://whitneyto.github.io/FirstProject) and access source code here [here](https://github.com/Whitneyto/FirstProject)
+
+* Create a simple website using React, React Bootstrap, and Typescript. You can access the websire [here](https://Whitneyto.github.io/Project2)
+
+   * This porject can also be access from the first website created
+   * Source code for the React website can be access [here](https://github.com/Whitneyto/Project2)
    
 ## Visual Studio Code
 * Using git in VSCode and terminal to clone project, change and update code/project to Github
@@ -53,8 +58,9 @@
 ### Week 3
 - Continued update HTML and CSS elements for the [First Project]((https://whitneyto.github.io/FirstProject))
 - Built a simple [React Website](https://whitneyto.github.io/Project2/) to generate random quotes from famous people
-- Linking the first project page to the React website, meaning from the [First Project]((https://whitneyto.github.io/FirstProject)), you can navigate to [React Website](https://whitneyto.github.io/Project2/)
-- Explored React Bootstrap, but haven't found a setting to use it yet.
+- Linking the first project page to the React website, from the [First Project]((https://whitneyto.github.io/FirstProject)), you can navigate to [React Website](https://whitneyto.github.io/Project2/)
+- Source code: [First Project]((https://whitneyto.github.io/FirstProject)) and [React Website](https://whitneyto.github.io/Project2/)
+- Explored React Bootstrap
 
 
 # TODO
@@ -74,5 +80,7 @@
 
 ### Week 3
 - Make more other simple website (project) and link them back to the first project
-- Maybe learn about Testing?
-- Update codes and styles for all projects as needed for better look and performance, definitely should find a place to use React Bootstrap
+- Read on documentation for [Jest](https://jestjs.io/docs/getting-started) and implement testing for webpages
+- Implement more Typescript in the project, I wanted to make another simple page with calculator or a simple board game
+- Update codes and styles for all projects as needed for better look and performance, 
+- Use more React Bootstrap
