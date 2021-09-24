@@ -47,7 +47,7 @@
 - Simple git command: git add --all, gut commit -m "message" and git push
 - Tutorials on HTML and CSS
 - Install VS Code and other Technologies as needed for this class
-- 
+
 ### Week 2
 - Used branching in git when working for different part of making a webpage wiht HTML. link to project below.
 - HTML and CSS tutorials, and updated the [webpage](https://whitneyto.github.io/FirstProject) project with nicer looking
@@ -58,7 +58,7 @@
 ### Week 3
 - Continued update HTML and CSS elements for the [First Project]((https://whitneyto.github.io/FirstProject))
 - Built a simple [React Website](https://whitneyto.github.io/Project2/) to generate random quotes from famous people
-- Linking the first project page to the React website, from the [First Project]((https://whitneyto.github.io/FirstProject)), you can navigate to [React Website](https://whitneyto.github.io/Project2/)
+- Linking the first project page to the React website, from the [First Project]((https://whitneyto.github.io/FirstProject)), you can navigate to [React Website](https://whitneyto.github.io/Project2/) and back using "Home" button.
 - Source code: [First Project]((https://whitneyto.github.io/FirstProject)) and [React Website](https://whitneyto.github.io/Project2/)
 - Explored React Bootstrap
 
