@@ -24,6 +24,12 @@
 
    * This porject can also be access from the first website created
    * Source code for the React website can be access [here](https://github.com/Whitneyto/Project2)
+
+* Create a Calculator app using React and Typescripts, you can access project [here](https://whitneyto.github.io/Project3)
+   * Source code for this project can be accessed [here](https://github.com/Whitneyto/Project3)
+   
+* On-going project with a Weather Website, using fetch API, you can accessed page [here](https://whitneyto.github.io/Project4)
+   * Source code for this project can be accessed [here](https://github.com/Whitneyto/Project4)
    
 ## Visual Studio Code
 * Using git in VSCode and terminal to clone project, change and update code/project to Github
@@ -61,6 +67,14 @@
 - Linking the first project page to the React website, from the [First Project](https://whitneyto.github.io/FirstProject), you can navigate to [React Website](https://whitneyto.github.io/Project2/) and back using "Home" button.
 - Source code: [First Project](https://whitneyto.github.io/FirstProject) and [React Website](https://whitneyto.github.io/Project2/)
 - Explored React Bootstrap
+
+### Week 4
+- Continued update HTML and CSS elements for the [First Project]((https://whitneyto.github.io/FirstProject))
+   - Now all links in navigation bars are accessable and will lead you to pages and small projects
+- Made another [Calculator](https://whitneyto.github.io/Project3/) react app, which is a small project you could access from [First Project]((https://whitneyto.github.io/FirstProject))
+- Attempted another Weather React app, learned how to use fetch() with API website.
+   - Able to fetch data from page
+   - able to get information from data in JSON format
 
 
 # TODO
